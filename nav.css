@@ -1,0 +1,22 @@
+nav ul{
+    list-style: none;
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul li{
+
+    margin-top: 30px;
+    list-style: none;
+}
+nav ul li a{
+    color: white;
+    
+}
+
+.active{
+    color: black !important;
+    background-color: white;
+    padding: 10px 45px;
+    border-radius: 10px 0 0 10px;
+}

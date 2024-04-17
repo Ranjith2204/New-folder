@@ -1,0 +1,36 @@
+.left-cont{
+    background-color: #087cfc;
+    height: 100dvh;
+    border-radius: 0 0 2rem 0;
+}
+
+
+.size{
+
+  height: 300px;
+  width: 500px;
+
+}
+
+.img-logo img{
+    margin-top: 1rem;
+    background-color: white;
+    border-radius: 0 1rem 1rem 0;
+    padding: 9px;
+    width: 120px;
+}
+
+.profile img{
+
+    border-radius: 50%;
+    border-color: black;
+    cursor: pointer;
+
+}
+
+.pro{
+    border-radius: 50%;
+    height:50px;
+    width: 55px;
+}
+
